@@ -1,6 +1,6 @@
-# Turborepo starter
+# 1hour.dev's components
 
-This is an official starter Turborepo.
+This is a public repository for https://www.1hour.dev 's reuse component
 
 ## Using this example
 
