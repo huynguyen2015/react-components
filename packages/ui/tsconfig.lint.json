@@ -1,0 +1,8 @@
+{
+  "extends": "@1hour/typescript-config/react-library.json",
+  "compilerOptions": {
+    "outDir": "dist"
+  },
+  "include": ["src", "turbo", "postcss.config.js", "**/*.ts", "**/*.tsx"],
+  "exclude": ["node_modules", "dist"]
+}
